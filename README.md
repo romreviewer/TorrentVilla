@@ -7,8 +7,11 @@ or
 https://github.com/Sanchit43/TorrentVilla/releases
 </br>
 <h2 align="center">Description<h2>
+
 <p>Torrent Villa  is designed for the Torrent lovers who wants to search their favorite torrents from the Internet. This app provides all available torrents provide by YTS.am, eztv, idope and many more
 
 This app provides magnet and torrent links only. We do not host or play any video directly or within the app. All data is retrieved from the YTS and other torrent database through their api.
 
 This is not an official app for any copyright issues please mail us before reporting. We will remove the copyrighted content within 7 working days.</p>
+<h2>Screenshots</h2>
+ ![GitHub Logo](http://torrentvilla.tk/images/home.png)
