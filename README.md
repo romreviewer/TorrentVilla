@@ -1,10 +1,12 @@
 <h1 align="center">TorrentVilla</h1>
 <h3 align="center">Unfortunately, Google decided to remove TorrentVilla from the Play Store.<h3>
 </br>
-<h4>Download the latest version from the link Below<h4>
+<h2 align="center">Download the latest version from the link Below<h4>
+<p align="center">
 www.torrentvilla.tk
 or
 <a href="https://github.com/Sanchit43/TorrentVilla/releases">Github Releases</a>
+  </p>
 </br>
 <h2 align="center">Description<h2>
 
