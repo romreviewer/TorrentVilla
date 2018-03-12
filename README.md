@@ -3,7 +3,7 @@
 </br>
 <h2 align="center">Download the latest version from the link Below<h4>
 <p align="center">
-www.torrentvilla.tk
+www.torrentvilla.com
 or
 <a href="https://github.com/Sanchit43/TorrentVilla/releases">Github Releases</a>
   </p>
