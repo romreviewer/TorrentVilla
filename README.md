@@ -6,16 +6,17 @@
 www.torrentvilla.com
 ,
 <a href="https://github.com/Sanchit43/TorrentVilla/releases">Github Releases</a>
-  </p>or <a href="https://torrentvilla.en.aptoide.com/">Aptoide Store</a>
+  or <a href="https://torrentvilla.en.aptoide.com/">Aptoide Store</a>
+  </p>
 </br>
 <h2 align="center">Description<h2>
 
-<p align="center">Now It Also Supports Indian Movies, Hollywood Dubbed Movies, Tamil, Telugu, chinese and many more try it Now.</p>
-<p align="center">Torrent Villa  is designed for the Torrent lovers who wants to search their favorite torrents from the Internet. This app provides all available torrents provide by YTS.am, eztv, idope and many more.</p>
+<p >Now It Also Supports Indian Movies, Hollywood Dubbed Movies, Tamil, Telugu, chinese and many more try it Now.</p>
+<p >Torrent Villa  is designed for the Torrent lovers who wants to search their favorite torrents from the Internet. This app provides all available torrents provide by YTS.am, eztv, idope and many more.</p>
 
-<p align="center">This app provides magnet and torrent links only. We do not host or play any video directly or within the app. All data is retrieved from the YTS and other torrent database through their api.</p>
+<p >This app provides magnet and torrent links only. We do not host or play any video directly or within the app. All data is retrieved from the YTS and other torrent database through their api.</p>
 
-<p align="center">This is not an official app for any copyright issues please mail us before reporting. We will remove the copyrighted content within 7 working days.</p>
+<p >This is not an official app for any copyright issues please mail us before reporting. We will remove the copyrighted content within 7 working days.</p>
 <h2 align="center">Screenshots</h2>
 <p align="center">
   <img src="/Screenshot/001.png" width="350"/>
