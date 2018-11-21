@@ -4,9 +4,9 @@
 <h2 align="center">Download the latest version from the link Below<h4>
 <p align="center">
 www.torrentvilla.com
-or
+,
 <a href="https://github.com/Sanchit43/TorrentVilla/releases">Github Releases</a>
-  </p>
+  </p>or <a href="https://torrentvilla.en.aptoide.com/">Aptoide Store</a>
 </br>
 <h2 align="center">Description<h2>
 
@@ -18,10 +18,11 @@ or
 <p align="center">This is not an official app for any copyright issues please mail us before reporting. We will remove the copyrighted content within 7 working days.</p>
 <h2 align="center">Screenshots</h2>
 <p align="center">
-  <img src="/Screenshot/Screenshot_20171229-011000.png" width="350"/>
-  <img src="/Screenshot/Screenshot_20171229-011042.png" width="350"/>
-  <img src="/Screenshot/Screenshot_20171229-011048.png" width="350"/>
-  <img src="/Screenshot/Screenshot_20171229-011056.png" width="350"/>
+  <img src="/Screenshot/001.png" width="350"/>
+  <img src="/Screenshot/002.png" width="350"/>
+  <img src="/Screenshot/003.png" width="350"/>
+  <img src="/Screenshot/004.png" width="350"/>
+  <img src="/Screenshot/005.png" width="350"/>
 
 </p>
 <h2 align="center">Contact Me</h2>
