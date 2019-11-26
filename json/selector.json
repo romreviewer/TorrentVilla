@@ -1,0 +1,11 @@
+[
+    {
+        "api": "https://bitbucket.org/oreotv/1.7.9/raw/9712f6e32b5a1fec8d404d63acfb4042108c606e/startv.json",
+        "icon": "http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/02/22/star.jpg",
+        "name": "Star premium",
+        "fname": "All Star Channels",
+        "sname": "Works Only in India",
+        "refresh": "false",
+        "direct_card": false
+    }
+]
